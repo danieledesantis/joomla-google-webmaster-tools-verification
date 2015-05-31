@@ -12,5 +12,12 @@ Works with Joomla! 2.5 and Joomla! 3+
 ## Usage
 1. Go to the plugin manager and publish the "Google Webmaster Tools Verification" plugin.
 2. In your Google Webmaster Tools account choose HTML tag as your verification method.
-3. Copy the value of the content attribute and paste it in the "Google Webmaster Tools verification ID" plugin field and save.
-4. Verify your website.
+3. Copy the value of the content attribute.
+4. Paste it in the "Google Webmaster Tools verification ID" plugin field and save.
+5. Verify your website.
+
+## License
+GNU/GPLv3 - http://www.gnu.org/licenses/gpl-3.0.html
+
+## Author
+Google Webmaster Tools Verification is a plugin by <a href="http://www.danieledesantis.net" title="Plugin developed by Daniele De Santis" target="_blank"><strong>Daniele De Santis</strong></a>
