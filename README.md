@@ -1,4 +1,4 @@
-# joomla-google-webmaster-tools-verification
+# Joomla! Google Webmaster Tools Verification
 Google Webmaster Tools Verification is a Joomla! plugin which allows you to verify the ownership of a website on Google Webmaster Tools.
 It adds the required meta tag to the home page of your Joomla! website.
 
