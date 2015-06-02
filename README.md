@@ -5,6 +5,9 @@ It adds the required meta tag to the home page of your Joomla! website.
 
 Works with Joomla! 2.5 and Joomla! 3+
 
+## Official page
+<a href="http://danieledesantis.github.io/joomla-google-webmaster-tools-verification/" title="Joomla! Google Webmaster Tools Verification" target="_blank"><strong>http://danieledesantis.github.io/joomla-google-webmaster-tools-verification/</strong></a>
+
 ## Installation
 1. From the Extension Manager choose Upload Package File and select the plg_googlewebmastertoolsverification_v1.0.zip file.
 2. Upload & Install.
